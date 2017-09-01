@@ -1,0 +1,5 @@
+C:\Users\paulfo\documents\visual studio 2017\Projects\TestParameters\CustomAction\bin\Debug\CustomAction.dll
+C:\Users\paulfo\documents\visual studio 2017\Projects\TestParameters\CustomAction\bin\Debug\CustomAction.pdb
+C:\Users\paulfo\documents\visual studio 2017\Projects\TestParameters\CustomAction\obj\Debug\CustomAction.csprojResolveAssemblyReference.cache
+C:\Users\paulfo\documents\visual studio 2017\Projects\TestParameters\CustomAction\obj\Debug\CustomAction.dll
+C:\Users\paulfo\documents\visual studio 2017\Projects\TestParameters\CustomAction\obj\Debug\CustomAction.pdb
